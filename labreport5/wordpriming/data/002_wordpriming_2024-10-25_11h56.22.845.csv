@@ -1,0 +1,21 @@
+﻿test_word,Reference,old_new,textbox.text,,,
+c_m_ra,Camera,new,camera,,,
+T_hi_t,Tshirt,old,tshirt,,,
+_oo_,Book,old,book,,,
+_a_bl_,Marble,old,marble,,,
+t_a_l_,Table,new,table,,,
+c_s_,Case,old,case,,,
+_ru_s_,Cruise,old,truse,,Prop hit from study list,0.8
+_o_rd,Board,old,cord,,Prop hit from non-primed words,1
+c_s_io_,Cushion,old,cushion,,,
+p_nc_l,Pencil,new,pencil,,Prime score,-0.2
+P_str_,Pastry,old,pastry,,,
+bo_t_e,Bottle,new,bottle,,,
+_ha_t,Chart,old,chart,,,
+l_pt_p,Laptop,old,laptop,,,
+v_s_,Vase,new,vase,,,
+_ho_e,Phone,old,house,,,
+K_y_,Keys,old,keys,,,
+P_li_e,Police,old,police,,,
+P_st_r,Poster,old,poster,,,
+_ou_se,mouse,old,mouse,,,
