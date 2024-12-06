@@ -1,0 +1,25 @@
+﻿word,imagefile,category
+stove,images/stove.jpg,noun
+refrigerator,images/refrigerator.jpg,noun
+microwave,images/microwave.jpg,noun
+cooker,images/cooker.jpg,noun
+jar,images/jar.jpg,noun
+knife,images/knife.jpg,noun
+rolling pin,images/rollingpin.jpg,noun
+garbage bin,images/garbagebin.jpg,noun
+bottle opener,images/bottleopener.jpg,noun
+dish soap,images/dishsoap.jpg,noun
+ice tray,images/icetray.jpg,noun
+fruit basket,images/fruitbasket.jpg,noun
+chopping,images/chopping.jpg,verb
+blending,images/blending.jpg,verb
+boiling,images/boiling.jpg,verb
+frying,images/frying.jpg,verb
+baking,images/baking.jpg,verb
+grilling,images/grilling.jpg,verb
+whisking,images/whisking.jpg,verb
+peeling,images/peeling.jpg,verb
+grating,images/grating.jpg,verb
+garnishing,images/garnishing.jpg,verb
+mashing,images/mashing.jpg,verb
+grinding,images/grinding.jpg,verb

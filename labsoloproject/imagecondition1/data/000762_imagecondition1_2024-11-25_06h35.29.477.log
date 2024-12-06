@@ -1,0 +1,798 @@
+11.1516 	INFO 	Loaded monitor calibration from ['2024_08_08 19:17']
+11.4154 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5430>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E53D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5220>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023DF073F940>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 200.0], screen=0, size=array([1280,  800]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.4156 	EXP 	window1: backgroundImage = ''
+11.4156 	EXP 	window1: backgroundFit = 'none'
+11.4160 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4162 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4191 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4199 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4864 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4866 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4875 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.4883 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000023DF05E5550>
+11.5069 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.5069 	EXP 	window1: recordFrameIntervals = False
+11.6932 	EXP 	window1: recordFrameIntervals = True
+11.8767 	EXP 	Screen (0) actual frame rate measured at 60.64Hz
+11.8767 	EXP 	window1: recordFrameIntervals = False
+11.8768 	EXP 	window1: mouseVisible = True
+11.8920 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.5163 	INFO 	keyboard.Keyboard is using iohub backend.
+15.5163 	INFO 	keyboard.Keyboard is using iohub backend.
+15.5164 	INFO 	keyboard.Keyboard is using iohub backend.
+15.5164 	EXP 	imagecondition1: status = STARTED
+15.5167 	EXP 	window1: mouseVisible = True
+15.6005 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.6007 	EXP 	window1: mouseVisible = True
+15.6054 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+15.6056 	EXP 	window1: mouseVisible = True
+15.6066 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.6067 	EXP 	window1: mouseVisible = True
+15.6119 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0. , 0.1]), size=array([0.5, 0.3]), texRes=128.0, units='height', win=Window(...))
+15.6123 	EXP 	window1: mouseVisible = True
+15.6124 	EXP 	window1: mouseVisible = True
+15.6132 	EXP 	window1: mouseVisible = True
+15.6139 	EXP 	window1: mouseVisible = True
+15.6193 	EXP 	window1: mouseVisible = True
+15.6194 	EXP 	window1: mouseVisible = True
+15.6201 	EXP 	window1: mouseVisible = True
+15.6210 	EXP 	window1: mouseVisible = True
+15.6471 	EXP 	window1: mouseVisible = True
+15.6473 	EXP 	window1: mouseVisible = True
+15.6480 	EXP 	window1: mouseVisible = True
+15.6487 	EXP 	window1: mouseVisible = True
+15.6539 	EXP 	window1: mouseVisible = True
+15.6541 	EXP 	window1: mouseVisible = True
+15.6548 	EXP 	window1: mouseVisible = True
+15.6555 	EXP 	window1: mouseVisible = True
+15.6864 	EXP 	window1: mouseVisible = True
+15.7013 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.7015 	EXP 	window1: mouseVisible = True
+15.7017 	EXP 	window1: mouseVisible = True
+15.7024 	EXP 	window1: mouseVisible = True
+15.7032 	EXP 	window1: mouseVisible = True
+15.7080 	EXP 	window1: mouseVisible = True
+15.7081 	EXP 	window1: mouseVisible = True
+15.7088 	EXP 	window1: mouseVisible = True
+15.7095 	EXP 	window1: mouseVisible = True
+15.7145 	EXP 	window1: mouseVisible = True
+15.7147 	EXP 	window1: mouseVisible = True
+15.7155 	EXP 	window1: mouseVisible = True
+15.7163 	EXP 	window1: mouseVisible = True
+15.7389 	EXP 	window1: mouseVisible = True
+15.7391 	EXP 	window1: mouseVisible = True
+15.7398 	EXP 	window1: mouseVisible = True
+15.7405 	EXP 	window1: mouseVisible = True
+15.7454 	EXP 	window1: mouseVisible = True
+15.7506 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0222 	EXP 	textbox: autoLog = True
+0.0222 	EXP 	textbox_2: autoLog = True
+0.0411 	INFO 	Keyboard events cleared
+0.0407 	EXP 	text_3: autoDraw = True
+2.1163 	EXP 	Imported imagecondition.csv as conditions, 24 conditions, 3 params
+2.1167 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'garnishing', 'imagefile': 'images/garnishing.jpg', 'category': 'verb', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.1221 	DATA 	Keypress: space
+2.1386 	EXP 	text_3: autoDraw = False
+2.1386 	EXP 	text: height = 0.05
+2.1386 	EXP 	text: height = 0.05
+2.1386 	EXP 	text: height = 0.05
+2.1386 	EXP 	text: text = 'garnishing'
+2.1386 	EXP 	image: image = 'images/garnishing.jpg'
+2.1386 	EXP 	fixation: autoDraw = True
+3.1235 	EXP 	text: autoDraw = True
+3.1235 	EXP 	image: autoDraw = True
+3.1235 	EXP 	textbox: autoDraw = True
+3.1384 	EXP 	fixation: autoDraw = False
+4.2395 	DATA 	Keypress: v
+4.3216 	DATA 	Keypress: e
+4.4626 	DATA 	Keypress: r
+4.5547 	DATA 	Keypress: b
+5.5714 	DATA 	Mouse: Left button down, pos=(633,230)
+5.5726 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'dish soap', 'imagefile': 'images/dishsoap.jpg', 'category': 'noun', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.6032 	EXP 	fixation: autoDraw = False
+5.6032 	EXP 	text: autoDraw = False
+5.6032 	EXP 	image: autoDraw = False
+5.6032 	EXP 	textbox: autoDraw = False
+5.6032 	EXP 	text: height = 0.05
+5.6032 	EXP 	text: height = 0.05
+5.6032 	EXP 	text: height = 0.05
+5.6032 	EXP 	text: text = 'dish soap'
+5.6032 	EXP 	image: image = 'images/dishsoap.jpg'
+5.6032 	EXP 	fixation: autoDraw = True
+5.7890 	DATA 	Mouse:  Left button up, pos=(633,230)
+6.6041 	EXP 	text: autoDraw = True
+6.6041 	EXP 	image: autoDraw = True
+6.6041 	EXP 	textbox: autoDraw = True
+6.6201 	EXP 	fixation: autoDraw = False
+7.4793 	DATA 	Keypress: n
+7.6537 	DATA 	Keypress: o
+7.7757 	DATA 	Keypress: u
+7.9602 	DATA 	Keypress: n
+8.8700 	DATA 	Mouse: Left button down, pos=(603,249)
+8.8712 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'garbage bin', 'imagefile': 'images/garbagebin.jpg', 'category': 'noun', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+8.9024 	EXP 	fixation: autoDraw = False
+8.9024 	EXP 	text: autoDraw = False
+8.9024 	EXP 	image: autoDraw = False
+8.9024 	EXP 	textbox: autoDraw = False
+8.9024 	EXP 	text: height = 0.05
+8.9024 	EXP 	text: height = 0.05
+8.9024 	EXP 	text: height = 0.05
+8.9024 	EXP 	text: text = 'garbage bin'
+8.9024 	EXP 	image: image = 'images/garbagebin.jpg'
+8.9024 	EXP 	fixation: autoDraw = True
+9.0871 	DATA 	Mouse:  Left button up, pos=(603,249)
+9.9027 	EXP 	text: autoDraw = True
+9.9027 	EXP 	image: autoDraw = True
+9.9027 	EXP 	textbox: autoDraw = True
+9.9188 	EXP 	fixation: autoDraw = False
+10.8271 	DATA 	Keypress: n
+11.0366 	DATA 	Keypress: o
+11.1429 	DATA 	Keypress: u
+11.5363 	DATA 	Keypress: n
+12.4515 	DATA 	Mouse: Left button down, pos=(634,225)
+12.4527 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'word': 'grating', 'imagefile': 'images/grating.jpg', 'category': 'verb', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+12.4681 	EXP 	fixation: autoDraw = False
+12.4681 	EXP 	text: autoDraw = False
+12.4681 	EXP 	image: autoDraw = False
+12.4681 	EXP 	textbox: autoDraw = False
+12.4681 	EXP 	text: height = 0.05
+12.4681 	EXP 	text: height = 0.05
+12.4681 	EXP 	text: height = 0.05
+12.4681 	EXP 	text: text = 'grating'
+12.4681 	EXP 	image: image = 'images/grating.jpg'
+12.4681 	EXP 	fixation: autoDraw = True
+12.6675 	DATA 	Mouse:  Left button up, pos=(634,225)
+13.4845 	EXP 	fixation: autoDraw = False
+13.4845 	EXP 	text: autoDraw = True
+13.4845 	EXP 	image: autoDraw = True
+13.4845 	EXP 	textbox: autoDraw = True
+14.5270 	DATA 	Keypress: v
+14.6175 	DATA 	Keypress: e
+14.7918 	DATA 	Keypress: r
+14.8678 	DATA 	Keypress: b
+15.8054 	DATA 	Mouse: Left button down, pos=(694,274)
+15.8177 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'word': 'cooker', 'imagefile': 'images/cooker.jpg', 'category': 'noun', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+15.8494 	EXP 	fixation: autoDraw = False
+15.8494 	EXP 	text: autoDraw = False
+15.8494 	EXP 	image: autoDraw = False
+15.8494 	EXP 	textbox: autoDraw = False
+15.8494 	EXP 	text: height = 0.05
+15.8494 	EXP 	text: height = 0.05
+15.8494 	EXP 	text: height = 0.05
+15.8494 	EXP 	text: text = 'cooker'
+15.8494 	EXP 	image: image = 'images/cooker.jpg'
+15.8494 	EXP 	fixation: autoDraw = True
+16.4166 	DATA 	Mouse:  Left button up, pos=(635,237)
+16.8344 	EXP 	text: autoDraw = True
+16.8344 	EXP 	image: autoDraw = True
+16.8344 	EXP 	textbox: autoDraw = True
+16.8504 	EXP 	fixation: autoDraw = False
+17.5407 	DATA 	Keypress: n
+17.7060 	DATA 	Keypress: o
+17.8378 	DATA 	Keypress: u
+18.0167 	DATA 	Keypress: n
+19.4988 	DATA 	Mouse: Left button down, pos=(608,237)
+19.4998 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'word': 'fruit basket', 'imagefile': 'images/fruitbasket.jpg', 'category': 'noun', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+19.5149 	EXP 	fixation: autoDraw = False
+19.5149 	EXP 	text: autoDraw = False
+19.5149 	EXP 	image: autoDraw = False
+19.5149 	EXP 	textbox: autoDraw = False
+19.5149 	EXP 	text: height = 0.05
+19.5149 	EXP 	text: height = 0.05
+19.5149 	EXP 	text: height = 0.05
+19.5149 	EXP 	text: text = 'fruit basket'
+19.5149 	EXP 	image: image = 'images/fruitbasket.jpg'
+19.5149 	EXP 	fixation: autoDraw = True
+19.7314 	DATA 	Mouse:  Left button up, pos=(608,237)
+20.5312 	EXP 	fixation: autoDraw = False
+20.5312 	EXP 	text: autoDraw = True
+20.5312 	EXP 	image: autoDraw = True
+20.5312 	EXP 	textbox: autoDraw = True
+21.3244 	DATA 	Keypress: n
+21.4984 	DATA 	Keypress: o
+21.5984 	DATA 	Keypress: u
+21.8137 	DATA 	Keypress: n
+23.4704 	DATA 	Mouse: Left button down, pos=(656,232)
+23.4817 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'word': 'chopping', 'imagefile': 'images/chopping.jpg', 'category': 'verb', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+23.4966 	EXP 	fixation: autoDraw = False
+23.4966 	EXP 	text: autoDraw = False
+23.4966 	EXP 	image: autoDraw = False
+23.4966 	EXP 	textbox: autoDraw = False
+23.4966 	EXP 	text: height = 0.05
+23.4966 	EXP 	text: height = 0.05
+23.4966 	EXP 	text: height = 0.05
+23.4966 	EXP 	text: text = 'chopping'
+23.4966 	EXP 	image: image = 'images/chopping.jpg'
+23.4966 	EXP 	fixation: autoDraw = True
+23.7144 	DATA 	Mouse:  Left button up, pos=(656,232)
+24.4965 	EXP 	text: autoDraw = True
+24.4965 	EXP 	image: autoDraw = True
+24.4965 	EXP 	textbox: autoDraw = True
+24.5129 	EXP 	fixation: autoDraw = False
+25.5136 	DATA 	Keypress: v
+25.6181 	DATA 	Keypress: e
+25.8025 	DATA 	Keypress: r
+25.9340 	DATA 	Keypress: b
+26.8455 	DATA 	Mouse: Left button down, pos=(619,243)
+26.8466 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'word': 'frying', 'imagefile': 'images/frying.jpg', 'category': 'verb', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+26.8617 	EXP 	fixation: autoDraw = False
+26.8617 	EXP 	text: autoDraw = False
+26.8617 	EXP 	image: autoDraw = False
+26.8617 	EXP 	textbox: autoDraw = False
+26.8617 	EXP 	text: height = 0.05
+26.8617 	EXP 	text: height = 0.05
+26.8617 	EXP 	text: height = 0.05
+26.8617 	EXP 	text: text = 'frying'
+26.8617 	EXP 	image: image = 'images/frying.jpg'
+26.8617 	EXP 	fixation: autoDraw = True
+27.0629 	DATA 	Mouse:  Left button up, pos=(619,243)
+27.8796 	EXP 	fixation: autoDraw = False
+27.8796 	EXP 	text: autoDraw = True
+27.8796 	EXP 	image: autoDraw = True
+27.8796 	EXP 	textbox: autoDraw = True
+28.4382 	DATA 	Keypress: v
+28.5344 	DATA 	Keypress: e
+28.7186 	DATA 	Keypress: r
+28.8181 	DATA 	Keypress: b
+29.8341 	DATA 	Mouse: Left button down, pos=(669,243)
+29.8451 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'word': 'knife', 'imagefile': 'images/knife.jpg', 'category': 'noun', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+29.8604 	EXP 	fixation: autoDraw = False
+29.8604 	EXP 	text: autoDraw = False
+29.8604 	EXP 	image: autoDraw = False
+29.8604 	EXP 	textbox: autoDraw = False
+29.8604 	EXP 	text: height = 0.05
+29.8604 	EXP 	text: height = 0.05
+29.8604 	EXP 	text: height = 0.05
+29.8604 	EXP 	text: text = 'knife'
+29.8604 	EXP 	image: image = 'images/knife.jpg'
+29.8604 	EXP 	fixation: autoDraw = True
+30.0614 	DATA 	Mouse:  Left button up, pos=(669,243)
+30.8766 	EXP 	fixation: autoDraw = False
+30.8766 	EXP 	text: autoDraw = True
+30.8766 	EXP 	image: autoDraw = True
+30.8766 	EXP 	textbox: autoDraw = True
+31.8018 	DATA 	Keypress: n
+31.9833 	DATA 	Keypress: o
+32.1112 	DATA 	Keypress: u
+32.3149 	DATA 	Keypress: n
+33.2482 	DATA 	Mouse: Left button down, pos=(629,218)
+33.2601 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'word': 'grinding', 'imagefile': 'images/grinding.jpg', 'category': 'verb', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+33.2753 	EXP 	fixation: autoDraw = False
+33.2753 	EXP 	text: autoDraw = False
+33.2753 	EXP 	image: autoDraw = False
+33.2753 	EXP 	textbox: autoDraw = False
+33.2753 	EXP 	text: height = 0.05
+33.2753 	EXP 	text: height = 0.05
+33.2753 	EXP 	text: height = 0.05
+33.2753 	EXP 	text: text = 'grinding'
+33.2753 	EXP 	image: image = 'images/grinding.jpg'
+33.2753 	EXP 	fixation: autoDraw = True
+33.4778 	DATA 	Mouse:  Left button up, pos=(629,218)
+34.2750 	EXP 	text: autoDraw = True
+34.2750 	EXP 	image: autoDraw = True
+34.2750 	EXP 	textbox: autoDraw = True
+34.2916 	EXP 	fixation: autoDraw = False
+35.0330 	DATA 	Keypress: v
+35.4483 	DATA 	Keypress: e
+35.6260 	DATA 	Keypress: r
+35.8088 	DATA 	Keypress: b
+36.6636 	DATA 	Mouse: Left button down, pos=(653,246)
+36.6754 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'word': 'microwave', 'imagefile': 'images/microwave.jpg', 'category': 'noun', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+36.6913 	EXP 	fixation: autoDraw = False
+36.6913 	EXP 	text: autoDraw = False
+36.6913 	EXP 	image: autoDraw = False
+36.6913 	EXP 	textbox: autoDraw = False
+36.6913 	EXP 	text: height = 0.05
+36.6913 	EXP 	text: height = 0.05
+36.6913 	EXP 	text: height = 0.05
+36.6913 	EXP 	text: text = 'microwave'
+36.6913 	EXP 	image: image = 'images/microwave.jpg'
+36.6913 	EXP 	fixation: autoDraw = True
+36.8912 	DATA 	Mouse:  Left button up, pos=(653,246)
+37.6905 	EXP 	text: autoDraw = True
+37.6905 	EXP 	image: autoDraw = True
+37.6905 	EXP 	textbox: autoDraw = True
+37.7070 	EXP 	fixation: autoDraw = False
+38.5490 	DATA 	Keypress: n
+38.6960 	DATA 	Keypress: o
+38.7961 	DATA 	Keypress: u
+38.9903 	DATA 	Keypress: n
+40.0564 	DATA 	Mouse: Left button down, pos=(638,234)
+40.0574 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'word': 'baking', 'imagefile': 'images/baking.jpg', 'category': 'verb', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+40.0730 	EXP 	fixation: autoDraw = False
+40.0730 	EXP 	text: autoDraw = False
+40.0730 	EXP 	image: autoDraw = False
+40.0730 	EXP 	textbox: autoDraw = False
+40.0730 	EXP 	text: height = 0.05
+40.0730 	EXP 	text: height = 0.05
+40.0730 	EXP 	text: height = 0.05
+40.0730 	EXP 	text: text = 'baking'
+40.0730 	EXP 	image: image = 'images/baking.jpg'
+40.0730 	EXP 	fixation: autoDraw = True
+40.2738 	DATA 	Mouse:  Left button up, pos=(638,234)
+41.0887 	EXP 	fixation: autoDraw = False
+41.0887 	EXP 	text: autoDraw = True
+41.0887 	EXP 	image: autoDraw = True
+41.0887 	EXP 	textbox: autoDraw = True
+41.8397 	DATA 	Keypress: v
+41.9456 	DATA 	Keypress: e
+42.1228 	DATA 	Keypress: r
+42.2737 	DATA 	Keypress: b
+43.1937 	DATA 	Mouse: Left button down, pos=(665,235)
+43.2059 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'word': 'refrigerator', 'imagefile': 'images/refrigerator.jpg', 'category': 'noun', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+43.8598 	DATA 	Mouse:  Left button up, pos=(665,235)
+43.8602 	DATA 	Mouse: Left button down, pos=(665,235)
+43.8606 	DATA 	Mouse:  Left button up, pos=(665,235)
+43.8864 	EXP 	fixation: autoDraw = False
+43.8864 	EXP 	text: autoDraw = False
+43.8864 	EXP 	image: autoDraw = False
+43.8864 	EXP 	textbox: autoDraw = False
+43.8864 	EXP 	text: height = 0.05
+43.8864 	EXP 	text: height = 0.05
+43.8864 	EXP 	text: height = 0.05
+43.8864 	EXP 	text: text = 'refrigerator'
+43.8864 	EXP 	image: image = 'images/refrigerator.jpg'
+43.8864 	EXP 	fixation: autoDraw = True
+44.1226 	DATA 	Mouse: Left button down, pos=(665,235)
+44.1900 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'word': 'jar', 'imagefile': 'images/jar.jpg', 'category': 'noun', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+44.2201 	EXP 	text: autoDraw = True
+44.2201 	EXP 	image: autoDraw = True
+44.2201 	EXP 	textbox: autoDraw = True
+44.2201 	EXP 	fixation: autoDraw = False
+44.2201 	EXP 	text: autoDraw = False
+44.2201 	EXP 	image: autoDraw = False
+44.2201 	EXP 	textbox: autoDraw = False
+44.2201 	EXP 	text: height = 0.05
+44.2201 	EXP 	text: height = 0.05
+44.2201 	EXP 	text: height = 0.05
+44.2201 	EXP 	text: text = 'jar'
+44.2201 	EXP 	image: image = 'images/jar.jpg'
+44.2201 	EXP 	fixation: autoDraw = True
+44.3545 	DATA 	Mouse:  Left button up, pos=(665,235)
+45.2212 	EXP 	text: autoDraw = True
+45.2212 	EXP 	image: autoDraw = True
+45.2212 	EXP 	textbox: autoDraw = True
+45.2377 	EXP 	fixation: autoDraw = False
+45.9785 	DATA 	Keypress: n
+46.1709 	DATA 	Keypress: o
+46.5875 	DATA 	Keypress: u
+46.8440 	DATA 	Keypress: n
+47.7363 	DATA 	Mouse: Left button down, pos=(636,231)
+47.7375 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'word': 'rolling pin', 'imagefile': 'images/rollingpin.jpg', 'category': 'noun', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+47.7529 	EXP 	fixation: autoDraw = False
+47.7529 	EXP 	text: autoDraw = False
+47.7529 	EXP 	image: autoDraw = False
+47.7529 	EXP 	textbox: autoDraw = False
+47.7529 	EXP 	text: height = 0.05
+47.7529 	EXP 	text: height = 0.05
+47.7529 	EXP 	text: height = 0.05
+47.7529 	EXP 	text: text = 'rolling pin'
+47.7529 	EXP 	image: image = 'images/rollingpin.jpg'
+47.7529 	EXP 	fixation: autoDraw = True
+47.9711 	DATA 	Mouse:  Left button up, pos=(636,231)
+48.7534 	EXP 	fixation: autoDraw = False
+48.7534 	EXP 	text: autoDraw = True
+48.7534 	EXP 	image: autoDraw = True
+48.7534 	EXP 	textbox: autoDraw = True
+49.6687 	DATA 	Keypress: n
+49.8184 	DATA 	Keypress: o
+49.9108 	DATA 	Keypress: u
+50.1201 	DATA 	Keypress: n
+51.0415 	DATA 	Mouse: Left button down, pos=(612,235)
+51.0525 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'word': 'mashing', 'imagefile': 'images/mashing.jpg', 'category': 'verb', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+51.0675 	EXP 	fixation: autoDraw = False
+51.0675 	EXP 	text: autoDraw = False
+51.0675 	EXP 	image: autoDraw = False
+51.0675 	EXP 	textbox: autoDraw = False
+51.0675 	EXP 	text: height = 0.05
+51.0675 	EXP 	text: height = 0.05
+51.0675 	EXP 	text: height = 0.05
+51.0675 	EXP 	text: text = 'mashing'
+51.0675 	EXP 	image: image = 'images/mashing.jpg'
+51.0675 	EXP 	fixation: autoDraw = True
+51.2679 	DATA 	Mouse:  Left button up, pos=(612,235)
+52.0674 	EXP 	text: autoDraw = True
+52.0674 	EXP 	image: autoDraw = True
+52.0674 	EXP 	textbox: autoDraw = True
+52.0842 	EXP 	fixation: autoDraw = False
+53.1434 	DATA 	Keypress: v
+53.2906 	DATA 	Keypress: e
+53.4506 	DATA 	Keypress: r
+53.5683 	DATA 	Keypress: b
+54.4667 	DATA 	Mouse: Left button down, pos=(673,241)
+54.4679 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'word': 'peeling', 'imagefile': 'images/peeling.jpg', 'category': 'verb', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+54.4833 	EXP 	fixation: autoDraw = False
+54.4833 	EXP 	text: autoDraw = False
+54.4833 	EXP 	image: autoDraw = False
+54.4833 	EXP 	textbox: autoDraw = False
+54.4833 	EXP 	text: height = 0.05
+54.4833 	EXP 	text: height = 0.05
+54.4833 	EXP 	text: height = 0.05
+54.4833 	EXP 	text: text = 'peeling'
+54.4833 	EXP 	image: image = 'images/peeling.jpg'
+54.4833 	EXP 	fixation: autoDraw = True
+54.6997 	DATA 	Mouse:  Left button up, pos=(673,241)
+55.4997 	EXP 	fixation: autoDraw = False
+55.4997 	EXP 	text: autoDraw = True
+55.4997 	EXP 	image: autoDraw = True
+55.4997 	EXP 	textbox: autoDraw = True
+56.1327 	DATA 	Keypress: v
+56.2219 	DATA 	Keypress: e
+56.4231 	DATA 	Keypress: r
+56.5498 	DATA 	Keypress: b
+57.4319 	DATA 	Mouse: Left button down, pos=(625,241)
+57.4331 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'word': 'grilling', 'imagefile': 'images/grilling.jpg', 'category': 'verb', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+57.4488 	EXP 	fixation: autoDraw = False
+57.4488 	EXP 	text: autoDraw = False
+57.4488 	EXP 	image: autoDraw = False
+57.4488 	EXP 	textbox: autoDraw = False
+57.4488 	EXP 	text: height = 0.05
+57.4488 	EXP 	text: height = 0.05
+57.4488 	EXP 	text: height = 0.05
+57.4488 	EXP 	text: text = 'grilling'
+57.4488 	EXP 	image: image = 'images/grilling.jpg'
+57.4488 	EXP 	fixation: autoDraw = True
+57.6491 	DATA 	Mouse:  Left button up, pos=(625,241)
+58.4652 	EXP 	fixation: autoDraw = False
+58.4652 	EXP 	text: autoDraw = True
+58.4652 	EXP 	image: autoDraw = True
+58.4652 	EXP 	textbox: autoDraw = True
+59.0401 	DATA 	Keypress: v
+59.1700 	DATA 	Keypress: e
+59.3487 	DATA 	Keypress: r
+59.4649 	DATA 	Keypress: b
+60.3309 	DATA 	Mouse: Left button down, pos=(652,235)
+60.3320 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'word': 'blending', 'imagefile': 'images/blending.jpg', 'category': 'verb', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+60.3462 	EXP 	fixation: autoDraw = False
+60.3462 	EXP 	text: autoDraw = False
+60.3462 	EXP 	image: autoDraw = False
+60.3462 	EXP 	textbox: autoDraw = False
+60.3462 	EXP 	text: height = 0.05
+60.3462 	EXP 	text: height = 0.05
+60.3462 	EXP 	text: height = 0.05
+60.3462 	EXP 	text: text = 'blending'
+60.3462 	EXP 	image: image = 'images/blending.jpg'
+60.3462 	EXP 	fixation: autoDraw = True
+60.5655 	DATA 	Mouse:  Left button up, pos=(652,235)
+61.3643 	EXP 	fixation: autoDraw = False
+61.3643 	EXP 	text: autoDraw = True
+61.3643 	EXP 	image: autoDraw = True
+61.3643 	EXP 	textbox: autoDraw = True
+61.9981 	DATA 	Keypress: v
+62.1303 	DATA 	Keypress: e
+62.2806 	DATA 	Keypress: r
+62.4191 	DATA 	Keypress: b
+63.4465 	DATA 	Mouse: Left button down, pos=(633,238)
+63.4476 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'word': 'stove', 'imagefile': 'images/stove.jpg', 'category': 'noun', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+63.4784 	EXP 	fixation: autoDraw = False
+63.4784 	EXP 	text: autoDraw = False
+63.4784 	EXP 	image: autoDraw = False
+63.4784 	EXP 	textbox: autoDraw = False
+63.4784 	EXP 	text: height = 0.05
+63.4784 	EXP 	text: height = 0.05
+63.4784 	EXP 	text: height = 0.05
+63.4784 	EXP 	text: text = 'stove'
+63.4784 	EXP 	image: image = 'images/stove.jpg'
+63.4784 	EXP 	fixation: autoDraw = True
+63.6635 	DATA 	Mouse:  Left button up, pos=(633,238)
+64.4787 	EXP 	text: autoDraw = True
+64.4787 	EXP 	image: autoDraw = True
+64.4787 	EXP 	textbox: autoDraw = True
+64.4949 	EXP 	fixation: autoDraw = False
+65.3121 	DATA 	Keypress: n
+65.7791 	DATA 	Keypress: o
+65.9788 	DATA 	Keypress: u
+66.1954 	DATA 	Keypress: n
+67.0508 	DATA 	Mouse: Left button down, pos=(645,238)
+67.0626 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'word': 'ice tray', 'imagefile': 'images/icetray.jpg', 'category': 'noun', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+67.0774 	EXP 	fixation: autoDraw = False
+67.0774 	EXP 	text: autoDraw = False
+67.0774 	EXP 	image: autoDraw = False
+67.0774 	EXP 	textbox: autoDraw = False
+67.0774 	EXP 	text: height = 0.05
+67.0774 	EXP 	text: height = 0.05
+67.0774 	EXP 	text: height = 0.05
+67.0774 	EXP 	text: text = 'ice tray'
+67.0774 	EXP 	image: image = 'images/icetray.jpg'
+67.0774 	EXP 	fixation: autoDraw = True
+67.2790 	DATA 	Mouse:  Left button up, pos=(645,238)
+68.0941 	EXP 	fixation: autoDraw = False
+68.0941 	EXP 	text: autoDraw = True
+68.0941 	EXP 	image: autoDraw = True
+68.0941 	EXP 	textbox: autoDraw = True
+68.9338 	DATA 	Keypress: n
+69.1111 	DATA 	Keypress: o
+69.2279 	DATA 	Keypress: u
+69.4100 	DATA 	Keypress: n
+70.2990 	DATA 	Mouse: Left button down, pos=(603,229)
+70.3115 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'word': 'boiling', 'imagefile': 'images/boiling.jpg', 'category': 'verb', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+70.3264 	EXP 	fixation: autoDraw = False
+70.3264 	EXP 	text: autoDraw = False
+70.3264 	EXP 	image: autoDraw = False
+70.3264 	EXP 	textbox: autoDraw = False
+70.3264 	EXP 	text: height = 0.05
+70.3264 	EXP 	text: height = 0.05
+70.3264 	EXP 	text: height = 0.05
+70.3264 	EXP 	text: text = 'boiling'
+70.3264 	EXP 	image: image = 'images/boiling.jpg'
+70.3264 	EXP 	fixation: autoDraw = True
+70.5266 	DATA 	Mouse:  Left button up, pos=(603,229)
+71.3430 	EXP 	fixation: autoDraw = False
+71.3430 	EXP 	text: autoDraw = True
+71.3430 	EXP 	image: autoDraw = True
+71.3430 	EXP 	textbox: autoDraw = True
+72.2096 	DATA 	Keypress: v
+72.3427 	DATA 	Keypress: e
+72.5489 	DATA 	Keypress: r
+72.6589 	DATA 	Keypress: b
+73.4916 	DATA 	Mouse: Left button down, pos=(639,229)
+73.4929 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'word': 'whisking', 'imagefile': 'images/whisking.jpg', 'category': 'verb', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+73.5083 	EXP 	fixation: autoDraw = False
+73.5083 	EXP 	text: autoDraw = False
+73.5083 	EXP 	image: autoDraw = False
+73.5083 	EXP 	textbox: autoDraw = False
+73.5083 	EXP 	text: height = 0.05
+73.5083 	EXP 	text: height = 0.05
+73.5083 	EXP 	text: height = 0.05
+73.5083 	EXP 	text: text = 'whisking'
+73.5083 	EXP 	image: image = 'images/whisking.jpg'
+73.5083 	EXP 	fixation: autoDraw = True
+73.7265 	DATA 	Mouse:  Left button up, pos=(639,229)
+74.4917 	EXP 	text: autoDraw = True
+74.4917 	EXP 	image: autoDraw = True
+74.4917 	EXP 	textbox: autoDraw = True
+74.5081 	EXP 	fixation: autoDraw = False
+75.8478 	DATA 	Keypress: v
+76.5131 	DATA 	Keypress: e
+76.6642 	DATA 	Keypress: r
+77.2805 	DATA 	Keypress: b
+78.2954 	DATA 	Mouse: Left button down, pos=(684,228)
+78.3078 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'word': 'bottle opener', 'imagefile': 'images/bottleopener.jpg', 'category': 'noun', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+78.3228 	EXP 	fixation: autoDraw = False
+78.3228 	EXP 	text: autoDraw = False
+78.3228 	EXP 	image: autoDraw = False
+78.3228 	EXP 	textbox: autoDraw = False
+78.3228 	EXP 	text: height = 0.05
+78.3228 	EXP 	text: height = 0.05
+78.3228 	EXP 	text: height = 0.05
+78.3228 	EXP 	text: text = 'bottle opener'
+78.3228 	EXP 	image: image = 'images/bottleopener.jpg'
+78.3228 	EXP 	fixation: autoDraw = True
+78.5244 	DATA 	Mouse:  Left button up, pos=(684,228)
+79.3391 	EXP 	fixation: autoDraw = False
+79.3391 	EXP 	text: autoDraw = True
+79.3391 	EXP 	image: autoDraw = True
+79.3391 	EXP 	textbox: autoDraw = True
+80.1896 	DATA 	Keypress: n
+80.3562 	DATA 	Keypress: o
+80.4560 	DATA 	Keypress: u
+80.6722 	DATA 	Keypress: n
+82.0938 	DATA 	Mouse: Left button down, pos=(660,228)
+82.1213 	INFO 	Keyboard events cleared
+82.1209 	EXP 	fixation: autoDraw = False
+82.1209 	EXP 	text: autoDraw = False
+82.1209 	EXP 	image: autoDraw = False
+82.1209 	EXP 	textbox: autoDraw = False
+82.1209 	EXP 	text_2: autoDraw = True
+82.3236 	DATA 	Mouse:  Left button up, pos=(660,228)
+84.4725 	DATA 	Keypress: space
+84.4865 	EXP 	text_2: autoDraw = False
+84.4865 	EXP 	textbox_2: autoDraw = True
+86.1208 	DATA 	Keypress: b
+86.3413 	DATA 	Keypress: o
+86.5041 	DATA 	Keypress: t
+86.6373 	DATA 	Keypress: t
+86.7925 	DATA 	Keypress: l
+86.8418 	DATA 	Keypress: e
+87.0027 	DATA 	Keypress: space
+87.1371 	DATA 	Keypress: o
+87.2767 	DATA 	Keypress: p
+87.3525 	DATA 	Keypress: e
+87.4868 	DATA 	Keypress: n
+87.5186 	DATA 	Keypress: e
+87.7083 	DATA 	Keypress: r
+88.1609 	DATA 	Keypress: comma
+88.3693 	DATA 	Keypress: space
+89.3023 	DATA 	Keypress: c
+89.4180 	DATA 	Keypress: o
+89.5520 	DATA 	Keypress: o
+89.6854 	DATA 	Keypress: k
+89.7528 	DATA 	Keypress: e
+89.8855 	DATA 	Keypress: r
+90.0183 	DATA 	Keypress: space
+91.1347 	DATA 	Keypress: backspace
+91.5168 	DATA 	Keypress: comma
+91.6851 	DATA 	Keypress: space
+94.0501 	DATA 	Keypress: g
+94.1493 	DATA 	Keypress: r
+94.3000 	DATA 	Keypress: i
+94.4329 	DATA 	Keypress: n
+94.5332 	DATA 	Keypress: d
+94.6491 	DATA 	Keypress: i
+94.7557 	DATA 	Keypress: n
+94.8539 	DATA 	Keypress: g
+95.0001 	DATA 	Keypress: comma
+95.1882 	DATA 	Keypress: space
+95.3036 	DATA 	Keypress: g
+95.4671 	DATA 	Keypress: r
+95.5229 	DATA 	Keypress: a
+95.6205 	DATA 	Keypress: t
+95.8495 	DATA 	Keypress: i
+95.9703 	DATA 	Keypress: n
+96.0829 	DATA 	Keypress: g
+96.2152 	DATA 	Keypress: comma
+96.3987 	DATA 	Keypress: space
+98.3655 	DATA 	Keypress: p
+98.4984 	DATA 	Keypress: e
+98.6308 	DATA 	Keypress: e
+98.7362 	DATA 	Keypress: l
+98.9038 	DATA 	Keypress: i
+99.0646 	DATA 	Keypress: n
+99.1308 	DATA 	Keypress: g
+99.2809 	DATA 	Keypress: comma
+99.4878 	DATA 	Keypress: space
+99.8637 	DATA 	Keypress: b
+100.0641 	DATA 	Keypress: o
+100.2153 	DATA 	Keypress: i
+100.3640 	DATA 	Keypress: l
+100.4965 	DATA 	Keypress: i
+100.6640 	DATA 	Keypress: n
+100.7645 	DATA 	Keypress: g
+100.8975 	DATA 	Keypress: comma
+101.0969 	DATA 	Keypress: space
+101.4136 	DATA 	Keypress: c
+101.5193 	DATA 	Keypress: h
+101.6970 	DATA 	Keypress: o
+101.8472 	DATA 	Keypress: p
+101.9530 	DATA 	Keypress: p
+102.1791 	DATA 	Keypress: i
+102.3191 	DATA 	Keypress: n
+102.4129 	DATA 	Keypress: g
+102.5307 	DATA 	Keypress: comma
+102.6801 	DATA 	Keypress: space
+102.7293 	DATA 	Keypress: f
+102.8630 	DATA 	Keypress: r
+102.9300 	DATA 	Keypress: u
+103.0691 	DATA 	Keypress: i
+103.2455 	DATA 	Keypress: t
+103.3453 	DATA 	Keypress: space
+103.4959 	DATA 	Keypress: b
+103.5049 	DATA 	Keypress: a
+103.6792 	DATA 	Keypress: s
+103.7634 	DATA 	Keypress: k
+104.0632 	DATA 	Keypress: e
+104.3129 	DATA 	Keypress: t
+104.4287 	DATA 	Keypress: comma
+104.5952 	DATA 	Keypress: space
+105.1680 	DATA 	Keypress: g
+105.2620 	DATA 	Keypress: a
+105.3841 	DATA 	Keypress: r
+105.6450 	DATA 	Keypress: b
+105.8613 	DATA 	Keypress: a
+105.9444 	DATA 	Keypress: g
+106.0661 	DATA 	Keypress: e
+106.1620 	DATA 	Keypress: space
+106.4831 	DATA 	Keypress: o
+106.7116 	DATA 	Keypress: i
+106.8954 	DATA 	Keypress: n
+107.0948 	DATA 	Keypress: comma
+107.2837 	DATA 	Keypress: space
+107.5450 	DATA 	Keypress: r
+107.6432 	DATA 	Keypress: o
+107.8110 	DATA 	Keypress: l
+107.9278 	DATA 	Keypress: l
+108.2270 	DATA 	Keypress: backspace
+109.8774 	DATA 	Keypress: b
+110.0326 	DATA 	Keypress: i
+110.1645 	DATA 	Keypress: n
+110.3598 	DATA 	Keypress: comma
+110.4936 	DATA 	Keypress: space
+110.5923 	DATA 	Keypress: r
+110.6759 	DATA 	Keypress: o
+110.8432 	DATA 	Keypress: l
+110.9660 	DATA 	Keypress: l
+111.1481 	DATA 	Keypress: i
+111.2971 	DATA 	Keypress: n
+111.3495 	DATA 	Keypress: g
+111.4657 	DATA 	Keypress: space
+111.5918 	DATA 	Keypress: p
+111.8101 	DATA 	Keypress: i
+111.9596 	DATA 	Keypress: n
+112.1469 	DATA 	Keypress: comma
+112.4090 	DATA 	Keypress: m
+112.7249 	DATA 	Keypress: backspace
+112.8752 	DATA 	Keypress: space
+113.0759 	DATA 	Keypress: m
+113.2754 	DATA 	Keypress: a
+113.4319 	DATA 	Keypress: s
+113.5316 	DATA 	Keypress: h
+113.6811 	DATA 	Keypress: i
+113.8125 	DATA 	Keypress: n
+113.9141 	DATA 	Keypress: g
+114.0573 	DATA 	Keypress: comma
+114.2252 	DATA 	Keypress: space
+115.0470 	DATA 	Keypress: p
+115.6966 	DATA 	Keypress: backspace
+120.2630 	DATA 	Keypress: s
+120.3381 	DATA 	Keypress: t
+120.5397 	DATA 	Keypress: o
+120.6775 	DATA 	Keypress: v
+120.8389 	DATA 	Keypress: e
+120.9715 	DATA 	Keypress: comma
+121.2044 	DATA 	Keypress: space
+121.4276 	DATA 	Keypress: r
+121.5719 	DATA 	Keypress: e
+121.7607 	DATA 	Keypress: f
+122.1712 	DATA 	Keypress: r
+123.0128 	DATA 	Keypress: i
+123.1771 	DATA 	Keypress: g
+123.2873 	DATA 	Keypress: e
+123.5548 	DATA 	Keypress: r
+123.7373 	DATA 	Keypress: a
+123.8623 	DATA 	Keypress: t
+124.0600 	DATA 	Keypress: o
+124.1748 	DATA 	Keypress: r
+124.3195 	DATA 	Keypress: comma
+124.5211 	DATA 	Keypress: space
+128.0342 	DATA 	Keypress: w
+128.1511 	DATA 	Keypress: h
+128.3014 	DATA 	Keypress: i
+128.3511 	DATA 	Keypress: s
+128.5006 	DATA 	Keypress: k
+128.8007 	DATA 	Keypress: i
+128.9512 	DATA 	Keypress: n
+129.0843 	DATA 	Keypress: g
+129.4340 	DATA 	Keypress: comma
+129.6047 	DATA 	Keypress: space
+129.7393 	DATA 	Keypress: b
+129.8389 	DATA 	Keypress: a
+129.9500 	DATA 	Keypress: k
+130.0833 	DATA 	Keypress: i
+130.2498 	DATA 	Keypress: n
+130.3398 	DATA 	Keypress: g
+130.4661 	DATA 	Keypress: comma
+130.6492 	DATA 	Keypress: space
+133.3383 	DATA 	Keypress: f
+133.4990 	DATA 	Keypress: r
+133.8150 	DATA 	Keypress: y
+133.9821 	DATA 	Keypress: i
+134.1819 	DATA 	Keypress: g
+134.5877 	DATA 	Keypress: backspace
+134.7910 	DATA 	Keypress: n
+134.8987 	DATA 	Keypress: g
+135.3046 	DATA 	Keypress: comma
+135.5199 	DATA 	Keypress: space
+135.9811 	DATA 	Keypress: k
+136.1470 	DATA 	Keypress: n
+136.2974 	DATA 	Keypress: i
+136.5805 	DATA 	Keypress: f
+136.7369 	DATA 	Keypress: e
+136.8873 	DATA 	Keypress: comma
+137.0700 	DATA 	Keypress: space
+137.5633 	DATA 	Keypress: b
+137.8806 	DATA 	Keypress: l
+138.2135 	DATA 	Keypress: e
+138.4817 	DATA 	Keypress: n
+138.7367 	DATA 	Keypress: d
+138.9122 	DATA 	Keypress: i
+139.0625 	DATA 	Keypress: n
+139.1626 	DATA 	Keypress: g
+140.9621 	DATA 	Keypress: comma
+141.1520 	DATA 	Keypress: space
+155.7721 	DATA 	Keypress: backspace
+155.9398 	DATA 	Keypress: backspace
+156.1050 	DATA 	Keypress: backspace
+156.2776 	DATA 	Keypress: backspace
+157.3554 	DATA 	Keypress: backspace
+158.2050 	DATA 	Keypress: e
+158.4604 	DATA 	Keypress: r
+170.2725 	DATA 	Mouse: Left button down, pos=(634,155)
+170.2989 	EXP 	textbox_2: autoDraw = False
+170.2989 	EXP 	text_4: autoDraw = True
+170.5002 	DATA 	Mouse:  Left button up, pos=(634,155)
+173.2977 	EXP 	text_4: autoDraw = False
+173.2977 	EXP 	text_4: autoDraw = False
+173.2978 	EXP 	imagecondition1: status = STOPPED
+173.3163 	INFO 	saved data to 'C:\\Users\\User\\Desktop\\AU\\SEM5\\PSY310\\labsoloproject\\imagecondition1\\data/000762_imagecondition1_2024-11-25_06h35.29.477.csv'
+173.3176 	INFO 	saved data to C:\Users\User\Desktop\AU\SEM5\PSY310\labsoloproject\imagecondition1\data/000762_imagecondition1_2024-11-25_06h35.29.477.psydat
+173.3930 	EXP 	window1: mouseVisible = True
